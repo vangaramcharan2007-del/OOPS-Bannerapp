@@ -1,5 +1,4 @@
 public class OOPSBannerApp {
-
   static class CharacterPatternMap {
     Character character;
     String[] pattern;
